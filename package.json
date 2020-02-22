@@ -1,0 +1,34 @@
+{
+  "name": "cordova-subwebview",
+  "version": "0.0.1",
+  "description": "cordova-subwebview",
+  "cordova": {
+    "id": "cordova-subwebview",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snuffy/cordova-subwebview.git"
+  },
+  "author": "phi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snuffy/cordova-subwebview/issues"
+  },
+  "dependencies": {},
+  "homepage": "https://github.com/snuffy/cordova-subwebview#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova:plugin",
+    "plugin"
+  ]
+}
